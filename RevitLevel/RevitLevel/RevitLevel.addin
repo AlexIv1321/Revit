@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command RevitLevel</Text>
+    <Description>Some description for RevitLevel</Description>
+    <Assembly>RevitLevel.dll</Assembly>
+    <FullClassName>RevitLevel.Command</FullClassName>
+    <ClientId>2dd75e1c-407c-4d04-89ee-5bdba83843f9</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application RevitLevel</Name>
+    <Assembly>RevitLevel.dll</Assembly>
+    <FullClassName>RevitLevel.App</FullClassName>
+    <ClientId>388b31ce-c617-4ef3-9aaa-47e6631d3230</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>

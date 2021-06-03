@@ -1,0 +1,13 @@
+C:\Users\Ырырыр\source\repos\RevitLevel\RevitLevel\bin\Debug\RevitLevel.dll
+C:\Users\Ырырыр\source\repos\RevitLevel\RevitLevel\bin\Debug\RevitLevel.pdb
+C:\Users\Ырырыр\source\repos\RevitLevel\RevitLevel\obj\Debug\RevitLevel.csprojAssemblyReference.cache
+C:\Users\Ырырыр\source\repos\RevitLevel\RevitLevel\obj\Debug\RevitLevel.csproj.CoreCompileInputs.cache
+C:\Users\Ырырыр\source\repos\RevitLevel\RevitLevel\obj\Debug\RevitLevel.dll
+C:\Users\Ырырыр\source\repos\RevitLevel\RevitLevel\obj\Debug\RevitLevel.pdb
+C:\Users\Ырырыр\source\repos\RevitLevel\RevitLevel\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Ырырыр\source\repos\RevitLevel\RevitLevel\bin\Debug\ExcelDataReader.dll
+C:\Users\Ырырыр\source\repos\RevitLevel\RevitLevel\bin\Debug\ExcelDataReader.pdb
+C:\Users\Ырырыр\source\repos\RevitLevel\RevitLevel\bin\Debug\ExcelDataReader.xml
+C:\Users\Ырырыр\source\repos\RevitLevel\RevitLevel\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Ырырыр\source\repos\RevitLevel\RevitLevel\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Ырырыр\source\repos\RevitLevel\RevitLevel\obj\Debug\RevitLevel.csproj.CopyComplete
